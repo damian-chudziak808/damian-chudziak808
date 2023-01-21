@@ -2,8 +2,6 @@
 
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=damian-chudziak808&right_color=violet" alt="visitors">
-  <br>
   <br>
   My name is Damian, I'm a 20 y/o student from Poland that is trying to learn programming.
   <br>
