@@ -7,7 +7,16 @@ It's so empty here huh
 <img src="techstack.png"></img>
 </p>
 
-## Contact me
-@dziaddy#3366
+___
 
-damian.chudziak808@gmail.com
+### Contact me
+
+<a href="mailto:damian.chudziak808@gmail.com">
+    <img src="email-button.png"></img>
+</a>
+<a href="">
+    <img src="discord-button.png"></img>
+</a>
+<a href="">
+    <img src="linked-button.png"></img>
+</a>
