@@ -2,7 +2,7 @@
 
 ## About me
 I'm a 20 years old student who is trying to learn all he can about programming, and land a job as a frontend developer. <br/>
-I'm currently expanding my knowledge about MVC pattern and the proper use of React framework.
+Right now I'm expanding my knowledge about the proper use of React framework.
 
 ## What I'm currently working on
 I am currently working on my first major project which I have called - [**DASHPASH**](https://github.com/damian-chudziak808/dashpash)<br>
