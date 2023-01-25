@@ -16,14 +16,6 @@ It's still under development, so a lot of things aren't done yet.
 <img src="techstack.png"></img>
 </p>
 
-## My interests
-⚪ **Programming**
-
-⚪ **Graphic Design**
-
-⚪ **Pixelart** 
-
-
 ___
 <h3 align="center">Contact me</h3>
 
