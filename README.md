@@ -12,8 +12,8 @@ The app allows you to translate messages into Morse code and vice versa, learn M
 It's still under development, so a lot of things aren't done yet.
 
 ## Technologies I know and use
-<p>
-<img src="techstack.png"></img>
+<p align="center">
+    <img  height="64px" src="stack-01.png"></img>
 </p>
 
 ___
