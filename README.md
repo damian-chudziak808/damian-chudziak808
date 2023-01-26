@@ -13,7 +13,7 @@ It's still under development, so a lot of things aren't done yet.
 
 ## Technologies I know and use
 <p align="center">
-    <img  height="64px" src="stack-01.png"></img>
+    <img src="stack-01.png"></img>
 </p>
 
 ___
