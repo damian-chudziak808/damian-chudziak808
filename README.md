@@ -5,11 +5,23 @@ I'm a 20 years old student who is trying to learn all he can about programming, 
 Right now I'm expanding my knowledge about the proper use of React framework.
 
 ## What I'm currently working on
-I am currently working on my first major project which I have called - [**DASHPASH**](https://github.com/damian-chudziak808/dashpash)<br>
+### Personal webpage
+
+Right now, putting all my effort to make my own personal webpage. <br>
+
+It'll work as my resume as well as a source of information about me.
+
+[**damianchudziak.ovh**](https://damianchudziak.ovh/)
+
+___
+### Dashpash
+I am also working on my first major project.
 
 It is a simple superset of tools centered around Morse code.
 The app allows you to translate messages into Morse code and vice versa, learn Morse code, save and read your messages and their translations, and more.
 It's still under development, so a lot of things aren't done yet.
+
+[**dashpash**](https://github.com/damian-chudziak808/dashpash)
 
 ## Technologies I know and use
 <p align="center">
