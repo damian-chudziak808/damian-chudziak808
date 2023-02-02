@@ -7,7 +7,7 @@ Right now I'm expanding my knowledge about the proper use of React framework.
 ## What I'm currently working on
 ### Personal webpage
 
-Right now, putting all my effort to make my own personal webpage. <br>
+Right now, I'm putting all my effort to make my own personal webpage. <br>
 
 It'll work as my resume as well as a source of information about me.
 
