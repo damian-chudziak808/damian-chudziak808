@@ -25,7 +25,7 @@ It's still under development, so a lot of things aren't done yet.
 
 ## Technologies I know and use
 <p align="center">
-    <img src="stack-01.png"></img>
+    <img src="techstack.png"></img>
 </p>
 
 ___
