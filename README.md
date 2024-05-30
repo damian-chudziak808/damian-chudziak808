@@ -1,4 +1,4 @@
-<img src="banner.png"></img>
+<img src="banner2.png"></img>
 
 ## About me
 I'm a 20 years old student who is trying to learn all he can about programming, and land a job as a frontend developer. <br/>
