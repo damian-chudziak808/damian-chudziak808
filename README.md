@@ -2,4 +2,4 @@
 ### Projects
 ...
 ### Main tech stack
-<img style="width:880px" src="stack2.png" />
+![image](https://skillicons.dev/icons?i=git,html,css,typescript,react,nextjs,tailwind,postgresql)
