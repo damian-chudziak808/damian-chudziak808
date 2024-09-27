@@ -2,4 +2,4 @@
 ### Projects
 ...
 ### Main tech stack
-<img src="stack.jpg"></img>
+<img src="stack.png"></img>
